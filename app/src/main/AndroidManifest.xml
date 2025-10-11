@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Shopapplication">
         <activity
+            android:name=".Activity.CartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.DetailActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activity.Activity"
             android:exported="false" />
         <activity
@@ -25,7 +31,7 @@
         </activity>
         <activity
             android:name=".Activity.DashboardActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
     </application>
 
 </manifest>

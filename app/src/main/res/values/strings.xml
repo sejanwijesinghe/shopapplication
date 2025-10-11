@@ -4,4 +4,15 @@
     <string name="go">GO</string>
     <string name="what_are_you_looking_for">What are you looking for?</string>
     <string name="recommendation">Recommendation</string>
+    <string name="total_price">Total Price</string>
+    <string name="select_color">Select Color</string>
+    <string name="select_size">Select Size</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="title">Title</string>
+    <string name="check_out">Check Out</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="total">Total</string>
+    <string name="your_cart_is_empty">Your Cart is Empty</string>
+    <string name="order_detail">Order Detail</string>
 </resources>
