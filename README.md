@@ -14,4 +14,4 @@ A modular e-commerce Android app built with **Kotlin** and **Firebase**, designe
 - Kotlin – Modern Android development  
 - Firebase Realtime Database – Real-time data sync  
 - Android Studio – Development environment  
-- ViewBinding – Efficient UI binding,
+- ViewBinding – Efficient UI binding
